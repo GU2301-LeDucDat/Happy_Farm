@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363780183416",
+    "firebase_url": "https://farm-708bc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "farm-708bc",
+    "storage_bucket": "farm-708bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363780183416:android:1f3e9f0dfbcca43df5e48d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363780183416-badar90iso6q18gjk0249emca5f6n7ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Q3bMBcZQVzYiZNJCcn1PEEgwgxa0sU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363780183416-badar90iso6q18gjk0249emca5f6n7ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
