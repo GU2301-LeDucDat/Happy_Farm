@@ -1,2 +1,2 @@
 # Happy_Farm
-Game made by Unity3D
+The game was made with Unity3D
